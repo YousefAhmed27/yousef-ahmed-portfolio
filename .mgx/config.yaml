@@ -1,4 +1,4 @@
-install: pnpm install
-dev: pnpm run dev
 build: pnpm run build
-build_path: dist
+build_path: /data/chats/eg95g/workspace/shadcn-ui/dist
+dev: pnpm run dev
+install: pnpm install
